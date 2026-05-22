@@ -5,9 +5,9 @@ Semiconductor Packaging Fundamentals
 
 Semiconductor packaging is one of the most critical domains in modern electronics manufacturing. While transistor scaling has traditionally driven semiconductor innovation, advanced packaging technologies have now become equally important in determining system-level performance, bandwidth, thermal efficiency, power delivery capability, and reliability.
 
-This repository documents my learning journey through semiconductor packaging fundamentals, manufacturing flows, package architectures, wafer-level processing, reliability testing, and modern high-performance packaging technologies used in AI accelerators, CPUs, GPUs, automotive electronics, and high-speed computing systems.
+This repository documents my learning journey about the semiconductor packaging fundamentals, manufacturing flows, package architectures, wafer-level processing, reliability testing, and modern high-performance packaging technologies used in AI accelerators, CPUs, GPUs, automotive electronics, and high-speed computing systems.
 
-The course provided practical exposure to how a fragile bare semiconductor die is transformed into a mechanically reliable, electrically functional, and thermally optimized package capable of operating in real-world systems.
+The course also provided practical exposure via Ansys Student version tool (AEDT).
 
 ---
 
@@ -716,18 +716,26 @@ Challenges:
 
 ---
 
-# Key Observations
+# Key Learnings and Takeaways
 
-- Advanced packaging is becoming a primary performance enabler.
-- AI workloads increasingly require high-bandwidth memory integration.
-- Thermal management is one of the biggest challenges in advanced packages.
-- Packaging complexity is increasing faster than traditional package scaling.
-- Heterogeneous integration is expected to dominate future semiconductor systems.
+Through this course, I gained exposure to:
+
+- Semiconductor packaging fundamentals
+- Package architecture understanding
+- Wafer preparation and assembly flow
+- Wire bond manufacturing process
+- Flip-chip packaging methodology
+- Wafer-level packaging concepts
+- Package reliability testing
+- Burn-in methodologies
+- Advanced packaging technologies
+- Thermal and reliability considerations
+- Semiconductor backend manufacturing ecosystem
 
 ---
 
 # References
 
-- VSD Semiconductor Packaging Course
+- VSD Semiconductor Packaging Workshop Course
 
 ---
