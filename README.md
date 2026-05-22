@@ -704,9 +704,20 @@ Next, generate the Mesh. Various metrics can be analysed to determine the mesh q
 
 ## Step 6 - Analysis Solution setup
 
-![mesh quality analysis](screenshots/analysis.png)
+![Analysis setup](screenshots/analysis.png)
 
+Once setup is done, validate
 
+![Validation step](screenshots/validate.png)
+
+## Step 7 - Analyze All
+
+- Thermal Simulation will be done.
+- Create necessary field plot to get temperature map.
+
+Generated Thermal Map
+
+![Thermal Map](screenshots/thermal_map.png)
 
 ---
 
