@@ -1,5 +1,6 @@
 # VSD_PACKAGING_WORKSHOP
 Semiconductor Packaging Fundamentals
+
 # Overview
 
 Semiconductor packaging is one of the most critical domains in modern electronics manufacturing. While transistor scaling has traditionally driven semiconductor innovation, advanced packaging technologies have now become equally important in determining system-level performance, bandwidth, thermal efficiency, power delivery capability, and reliability.
@@ -14,7 +15,9 @@ The course provided practical exposure to how a fragile bare semiconductor die i
 
 Bare semiconductor dies are extremely delicate and cannot be directly integrated into electronic systems.
 
-A semiconductor package serves as the interface between the silicon die and the external world.
+A semiconductor package:
+1. Protects the fragile semiconductor die from physical damage, moisture, contamination, oxidation, and environmental stress.
+2. Enables reliable electrical interconnections between the die, substrate, PCB, and other semiconductor components within the system.
 
 Modern packaging technologies are responsible for:
 
@@ -27,7 +30,7 @@ Modern packaging technologies are responsible for:
 - System miniaturization
 - High-speed interconnect enablement
 
-Advanced packaging technologies such as:
+Advanced packaging technologies include:
 
 - Flip-Chip Packaging
 - 2.5D Integration
@@ -37,8 +40,6 @@ Advanced packaging technologies such as:
 - Silicon Interposers
 - Fan-Out Wafer Level Packaging
 - CoWoS Packaging
-
-have become major enablers for AI accelerators, HPC systems, and next-generation computing platforms.
 
 ---
 
