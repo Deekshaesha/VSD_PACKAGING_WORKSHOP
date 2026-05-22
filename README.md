@@ -531,28 +531,27 @@ Testing ensures:
 
 ![Different testing stages](screenshots/testing_stages.png)
 
-
 ---
 
 # Package Testing Flow
 
-## Assembly Open and Short Test (AOST)
+![Package testing flow](screenshots/pkg_testing.png)
+
+## Assembly Open and Short Test (AOST) - Functionality Testing
 
 Verifies:
 - Open connections
 - Short circuits
 - Basic connectivity
+- Ensures package functionality under operational conditions.
 
-## Functional Testing
-
-Ensures package functionality under operational conditions.
+![AOST Functionality](screenshots/aost.png)
 
 ## Burn-In Testing
 
 Burn-in testing applies:
 - Thermal stress
 - Voltage stress
-
 for extended periods to identify early-life failures.
 
 This helps improve long-term reliability.
