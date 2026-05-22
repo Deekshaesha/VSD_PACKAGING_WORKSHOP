@@ -440,7 +440,7 @@ The semiconductor manufacturing ecosystem involves multiple stages.
 ![Packaging Industry Flow](screenshots/pkg_industry_flow.png)
 ---
 
-# Industry Terminologies
+# Supply Chain Terminologies
 
 ## IDM — Integrated Device Manufacturer
 
