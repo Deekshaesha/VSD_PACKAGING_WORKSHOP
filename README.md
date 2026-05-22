@@ -656,12 +656,12 @@ This is becoming increasingly important for AI and advanced computing architectu
 
 # Lab Component
 
-Software used - Ansys Electronics Desktop Student
-Icepak tool - used for thermal analysis of packages.
-Boundary Conditions need to be assigned on variours edges and monitoring points is to be defined for thermal analysis.
-Finite Element analysis - mesh structure is used.
-
 ## Analysis of Flip-Chip BGA Package
+
+- Software used - Ansys Electronics Desktop Student
+- Icepak tool - used for thermal analysis of packages.
+- Boundary Conditions need to be assigned on variours edges and monitoring points is to be defined for thermal analysis.
+- Finite Element analysis - mesh structure is used.
 
 ## Step 1 - Select Icepak tool once AEDT launches.
 ![Choosing Icepak](screenshots/sw_launch_icepak.png)
@@ -682,10 +682,9 @@ If number of vias are increased and diameter of the vias are reduced, more heat 
 
 ![Solder Setting for Package](screenshots/solder_setting.png)
 
-Now the dimensions are set and the model gets created.
-You can now view the different #D components by selecting items in the dropdown under the model that was created.
+Now the dimensions are set and the model gets created. You can now view the different 3D components by selecting items in the dropdown under the model that was created.
 
----
+## Step 4 - Setting Boundary Conditions
 
 Set Thermal boundary for the die source
 
@@ -697,14 +696,16 @@ Set Source boundary condition for the Substrate - temperature setting
 
 Set point monitors for die, underfill and substrate - to analyse temperature
 
-Next, generate the Mesh
-Various metrics can be analysed to determine the mesh quality
+## Step 5 - Creating Mesh
+
+Next, generate the Mesh. Various metrics can be analysed to determine the mesh quality
 
 ![mesh quality analysis](screenshots/mesh_metrics.png)
 
-Next, Analysis - Solution setup
+## Step 6 - Analysis Solution setup
 
 ![mesh quality analysis](screenshots/analysis.png)
+
 
 
 ---
