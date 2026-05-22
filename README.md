@@ -318,6 +318,8 @@ Individual packages are separated using dicing or cutting processes.
 - Lower bandwidth capability
 - Limited scalability for very high I/O systems
 
+![Wire Bond Packaging](screenshots/wirebond_pkg.png)
+
 ---
 
 # Flip-Chip Packaging
