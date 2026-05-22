@@ -1,0 +1,2 @@
+# VSD_PACKAGING_WORKSHOP
+Semiconductor Packaging Fundamentals
