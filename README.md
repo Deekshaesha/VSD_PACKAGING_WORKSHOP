@@ -671,6 +671,27 @@ Finite Element analysis - mesh structure is used.
 ## Step 2 - Importing Flip-Chip BGA Package
 ![Importing Flip-Chip BGA Package](screenshots/import_fc_bga.png)
 
+## Step 3 - Setting Dimensions for the package
+Usually a package datasheet gives the details of the package size which is based on the die size.
+
+![Dimension Setting for Package](screenshots/dimensions_setting.png)
+
+![Die Setting for Package](screenshots/die_setting.png)
+
+If number of vias are increased and diameter of the vias are reduced, more heat can escape thus decreasing the hotspot of the package.
+
+![Substrate Setting for Package](screenshots/substrate_setting.png)
+
+![Solder Setting for Package](screenshots/solder_setting.png)
+
+Now the dimensions are set and the model gets created.
+You can now view the different #D components by selecting items in the dropdown under the model that was created.
+
+---
+
+Defining Thermal boundary for the die source.
+
+![Thermal boundary for die](screenshots/die_thermal.png)
 
 ---
 
