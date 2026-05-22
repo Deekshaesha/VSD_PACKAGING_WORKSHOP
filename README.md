@@ -378,6 +378,8 @@ External package balls are attached for PCB interfacing.
 - High-performance networking devices
 - Advanced SoCs
 
+![Flip Chip Packaging](screenshots/flip_chip_pkg.png)
+
 ---
 
 # Wafer-Level Packaging (WLP)
@@ -418,6 +420,8 @@ External package connections are formed on the RDL structure.
 - Wearables
 - Compact consumer electronics
 - High-density integrated systems
+
+![Wafer Level Packaging](screenshots/wafer_level_pkg.png)
 
 ---
 
@@ -648,13 +652,9 @@ This is becoming increasingly important for AI and advanced computing architectu
 
 ---
 
-# Mini Project
+# Lab Component
 
-# Comparative Study of Advanced Packaging Technologies for AI Accelerators
-
-## Objective
-
-To analyze and compare modern semiconductor packaging technologies used in AI accelerators and high-performance computing systems.
+TO DO analyze and compare modern semiconductor packaging technologies used in AI accelerators and high-performance computing systems.
 
 ---
 
