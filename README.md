@@ -529,6 +529,9 @@ Testing ensures:
 - Thermal robustness
 - Manufacturing quality
 
+![Different testing stages](screenshots/testing_stages.png)
+
+
 ---
 
 # Package Testing Flow
