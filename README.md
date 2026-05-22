@@ -114,6 +114,8 @@ Advanced packaging technologies improve performance but significantly increase:
 - Yield challenges
 - Production cost
 
+![Choosing the right package](screenshots/choosing_pkg.png)
+
 ---
 
 # Package Classification
@@ -151,14 +153,29 @@ Surface Mount Technology enables packages to be mounted directly on PCB surfaces
 
 ## Examples
 
-- QFN
-- QFP
-- CSP
-- PBGA
-- LGA
-- PoP
-- MCM
-- CoWoS
+- QFN — Quad Flat No-Lead  
+A surface-mount package with no external leads extending outward. Electrical connections are made through pads located underneath the package. QFN packages provide good thermal and electrical performance with compact size and are widely used in mobile, consumer, and RF applications.
+
+- QFP — Quad Flat Package  
+A surface-mount package with leads extending from all four sides of the package body. QFP packages support moderate-to-high pin counts and are commonly used in microcontrollers, processors, and communication ICs.
+
+- CSP — Chip Scale Package  
+A package whose size is nearly the same as the semiconductor die itself. CSP enables high integration density, smaller footprint, and improved electrical performance for compact electronic devices.
+
+- PBGA — Plastic Ball Grid Array  
+A BGA package using plastic substrate material with solder balls arranged in a grid pattern underneath the package. PBGA supports higher pin count, better thermal performance, and improved electrical characteristics compared to traditional leaded packages.
+
+- LGA — Land Grid Array  
+A package that uses flat conductive pads instead of solder balls or pins for electrical interconnection. LGA packages are widely used in high-performance processors and applications requiring high I/O density and reliable electrical contact.
+
+- PoP — Package on Package  
+An advanced packaging technology where multiple packages are vertically stacked on top of each other to improve space utilization and integration density. Commonly used in smartphones and compact embedded systems.
+
+- MCM — Multi-Chip Module  
+A package containing multiple semiconductor dies integrated within a single package substrate. MCM improves performance, reduces interconnect length, and enables higher functional integration.
+
+- CoWoS — Chip-on-Wafer-on-Substrate  
+An advanced 2.5D packaging technology developed for high-bandwidth and high-performance systems. It uses silicon interposers to integrate multiple dies such as GPUs and HBM memory within a single package, enabling extremely high bandwidth and integration density for AI and HPC applications.
 
 ## Advantages
 
@@ -170,6 +187,8 @@ Surface Mount Technology enables packages to be mounted directly on PCB surfaces
 - Better scalability
 
 SMT packaging dominates modern semiconductor systems because of its ability to support compact and high-speed electronic products.
+
+![Types of Packages](screenshots/pkg_types.png)
 
 ---
 
