@@ -658,7 +658,19 @@ This is becoming increasingly important for AI and advanced computing architectu
 
 # Lab Component
 
-TO DO analyze and compare modern semiconductor packaging technologies used in AI accelerators and high-performance computing systems.
+Software used - Ansys Electronics Desktop Student
+Icepak tool - used for thermal analysis of packages.
+Boundary Conditions need to be assigned on variours edges and monitoring points is to be defined for thermal analysis.
+Finite Element analysis - mesh structure is used.
+
+## Analysis of Flip-Chip BGA Package
+
+## Step 1 - Select Icepak tool once AEDT launches.
+![Choosing Icepak](screenshots/sw_launch_icepak.png)
+
+## Step 2 - Importing Flip-Chip BGA Package
+![Importing Flip-Chip BGA Package](screenshots/import_fc_bga.png)
+
 
 ---
 
