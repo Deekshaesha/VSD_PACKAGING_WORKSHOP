@@ -564,18 +564,16 @@ The bathtub curve describes semiconductor failure behavior across product lifeti
 2. Useful operational life
 3. Wear-out failures
 
-Burn-in testing primarily targets early-life failures.
-
----
-
-## Chamber Testing
-
 Packages are tested under extreme environmental conditions.
 
 Examples:
 - High temperature
 - Low temperature
 - Humidity exposure
+
+Burn-in testing primarily targets early-life failures.
+
+![Burn-in Test](screenshots/burn_in_test.png)
 
 ---
 
@@ -587,6 +585,10 @@ Final package validation includes:
 - Parametric testing
 - Functional testing
 - Reliability verification
+
+![Final Test](screenshots/final_test.png)
+
+![Package Test Summary](screenshots/pkg_test_summary.png)
 
 ---
 
