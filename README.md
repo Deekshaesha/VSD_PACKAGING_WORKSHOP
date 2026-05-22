@@ -409,7 +409,7 @@ The semiconductor manufacturing ecosystem involves multiple stages.
 3. Package Assembly and Test
 4. Board Assembly and Test
 5. Product Assembly and Final Validation
-
+![Packaging Industry Flow](screenshots/pkg_industry_flow.png)
 ---
 
 # Industry Terminologies
