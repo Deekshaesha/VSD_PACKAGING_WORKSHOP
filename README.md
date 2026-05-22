@@ -388,8 +388,6 @@ Wafer-Level Packaging enables packaging operations to occur directly at wafer le
 
 This significantly improves integration density and reduces overall package size.
 
-## Important Concepts Studied
-
 ### Redistribution Layer (RDL)
 
 RDL enables signal redistribution between die pads and external solder balls.
@@ -689,9 +687,25 @@ You can now view the different #D components by selecting items in the dropdown 
 
 ---
 
-Defining Thermal boundary for the die source.
+Set Thermal boundary for the die source
 
 ![Thermal boundary for die](screenshots/die_thermal.png)
+
+Set Source boundary condition for the Substrate - temperature setting
+
+![Source boundary for substrate](screenshots/src_boundary_subs.png)
+
+Set point monitors for die, underfill and substrate - to analyse temperature
+
+Next, generate the Mesh
+Various metrics can be analysed to determine the mesh quality
+
+![mesh quality analysis](screenshots/mesh_metrics.png)
+
+Next, Analysis - Solution setup
+
+![mesh quality analysis](screenshots/analysis.png)
+
 
 ---
 
