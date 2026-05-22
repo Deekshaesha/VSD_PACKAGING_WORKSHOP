@@ -247,7 +247,9 @@ Emerging technology with potential advantages in:
 - Low warpage
 - High-density routing
 
-![Packaging Industry Flow](screenshots/pkg_structure.png)
+![Package Structure](screenshots/pkg_structure.png)
+---
+![Package Anatomy](screenshots/pkg_anatomy.png)
 
 # Interconnection Technologies
 
@@ -428,6 +430,7 @@ The semiconductor manufacturing ecosystem involves multiple stages.
 3. Package Assembly and Test
 4. Board Assembly and Test
 5. Product Assembly and Final Validation
+
 ![Packaging Industry Flow](screenshots/pkg_industry_flow.png)
 ---
 
@@ -505,6 +508,8 @@ Individual dies are separated using:
 - Blade dicing
 
 This stage is critical because die damage directly impacts package yield.
+
+![Cleanroom Activities](screenshots/cleanroom_wafer_flow.png)
 
 ---
 
