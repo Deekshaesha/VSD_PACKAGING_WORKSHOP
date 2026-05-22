@@ -247,7 +247,7 @@ Emerging technology with potential advantages in:
 - Low warpage
 - High-density routing
 
----
+![Packaging Industry Flow](screenshots/pkg_structure.png)
 
 # Interconnection Technologies
 
